@@ -165,7 +165,7 @@
   "detection": {
     "images": 2125,
     "annotations": 2125,
-    "objects": 21543
+    "objects": 21319
   },
   "dataset_path": "c:\\Projects\\Smart_Vision\\smartvision_dataset"
 }
