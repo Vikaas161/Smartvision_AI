@@ -66,7 +66,7 @@ and is deployed as an interactive **Streamlit web application**.
 
 ---
 #Link for Review
-[Link](https://huggingface.co/spaces/TasneemFirdhosh/smartvision_ai)
+[Link](https://huggingface.co/spaces/vikaas161/smartvision_ai)
 ---
 
 ## ⚙️ Tech Stack
